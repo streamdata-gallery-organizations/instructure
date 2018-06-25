@@ -1,41 +1,40 @@
 ---
-name: Instructure
-x-slug: instructure
-description: Instructure makes software that makes smarter people. Products include
-  Canvas LMS, Bridge and Canvas Network.
-image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/820-instructure.jpg
-x-kinRank: "8"
-x-alexaRank: "367"
-tags: Instructure
-created: "2018-05-24"
-modified: "2018-05-24"
-url: https://raw.githubusercontent.com/streamdata-gallery-organizations/instructure/master/_listings/instructure/apis.md
+name: Streadata.io API Gallery - Instructure
+description: This is a repository of instructure APIs, self-contained as a Github
+  repository, with HTML and YAML representations of the APIs and their surrounding
+  operations.
+image: http://template.streamdata.gallery/assets/instructure.png
+created: "2018-02-24"
+modified: "2018-06-25"
+url: http://instructure.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
-x-common:
-- type: x-blog
-  url: http://blog.instructure.com
-- type: x-blog-rss
-  url: http://voice.instructure.com/CMS/UI/Modules/BizBlogger/rss.aspx?tabid=772438&moduleid=1638884&maxcount=25&t=415c2e5d197a4d6f7cdcc81385b677f1
-- type: x-crunchbase
-  url: https://crunchbase.com/organization/instructure
-- type: x-crunchbase
-  url: http://www.crunchbase.com/company/instructure
-- type: x-email
-  url: info@instructure.com
-- type: x-email
-  url: jobs@instructure.com
-- type: x-email
-  url: privacy@instructure.com
-- type: x-email
-  url: legal@instructure.com
-- type: x-github
-  url: https://github.com/instructure
-- type: x-twitter
-  url: https://twitter.com/instructure
-- type: x-website
-  url: https://canvas.instructure.com/doc/api/index.html
-include: []
+tags: Instructure
+include:
+- name: Instructure
+  url: https://raw.githubusercontent.com/streamdata-gallery-organizations/instructure/master/_listings/instructure/apis.yaml
+- name: Instructure
+  url: https://raw.githubusercontent.com/streamdata-gallery-organizations/instructure/master/_listings/instructure/apis.yaml
+- name: Instructure
+  url: https://raw.githubusercontent.com/streamdata-gallery-organizations/instructure/master/_listings/instructure/apis.yaml
+- name: Instructure
+  url: https://raw.githubusercontent.com/streamdata-gallery-organizations/instructure/master/_listings/instructure/apis.yaml
+- name: Instructure
+  url: https://raw.githubusercontent.com/streamdata-gallery-organizations/instructure/master/_listings/instructure/apis.yaml
+- name: Instructure
+  url: https://raw.githubusercontent.com/streamdata-gallery-organizations/instructure/master/_listings/instructure/apis.yaml
+- name: Instructure
+  url: https://raw.githubusercontent.com/streamdata-gallery-organizations/instructure/master/_listings/instructure/apis.yaml
+- name: Instructure
+  url: https://raw.githubusercontent.com/streamdata-gallery-organizations/instructure/master/_listings/instructure/apis.yaml
+- name: Instructure
+  url: https://raw.githubusercontent.com/streamdata-gallery-organizations/instructure/master/_listings/instructure/apis.yaml
+- name: Instructure
+  url: https://raw.githubusercontent.com/streamdata-gallery-organizations/instructure/master/_listings/instructure/apis.yaml
+- name: Instructure
+  url: https://raw.githubusercontent.com/streamdata-gallery-organizations/instructure/master/_listings/instructure/apis.yaml
+- name: Instructure
+  url: https://raw.githubusercontent.com/streamdata-gallery-organizations/instructure/master/_listings/instructure/apis.yaml
 maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
